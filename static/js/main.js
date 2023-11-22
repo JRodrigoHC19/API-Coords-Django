@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 // map.removeLayer(marker);
     }   
-    setInterval(obtenerCoordenadas, 3000);
+    setInterval(obtenerCoordenadas, 100);
     
 
     // C R E A C I O N   D E   L I N E A
